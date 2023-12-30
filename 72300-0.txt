@@ -831,7 +831,7 @@ amusement.
 admirable mimicry. “She is not to be outdone. What fun it is! Cannot
 you fancy what she will be like--Mrs. Brande’s niece, all the way from
 England? If not, I can inform you. She will have hair the colour of
-barley-sugar, clothes the colours of the rainbow, and not an ’h’!”
+barley-sugar, clothes the colours of the rainbow, and not an ‘h’!”
 
 
 
@@ -2261,17 +2261,17 @@ concluded. Mark was to correspond with his parent as regularly as he
 pleased, but he was to be, to all intents and purposes, his uncle
 Daniel’s son.
 
-Major Jervis made the most of his five weeks in England. He invested
-in new and gorgeous uniform, a new battery of guns, saddlery, presents
+Major Jervis made the most of his five weeks in England. He invested in
+a new and gorgeous uniform, a new battery of guns, saddlery, presents
 for Indian friends and his _fiancée_, and saw as much as possible of
 Mark. The more the pair were acquainted the better they liked each
 other. They went to the Tower, Madame Tussaud’s, the Zoo, the theatres.
 Mark invariably accompanied his parent to tailors, boot-makers and
-gun-smiths, and became subsequently quite the authority on these
-matters at school. His soldierly, open-handed sire, who loaded him
-with gifts, who told him tales of the stirring deeds of his ancestors,
-of his own swarthy sowars, of tiger-hunting and elephant drives,
-speedily became his hero and his idol.
+gun-smiths, and became subsequently quite the authority on these matters
+at school. His soldierly, open-handed sire, who loaded him with gifts,
+who told him tales of the stirring deeds of his ancestors, of his own
+swarthy sowars, of tiger-hunting and elephant drives, speedily became
+his hero and his idol.
 
 On being sounded as to his own choice of a profession, Mark, after
 taking thought for a considerable time, gravely announced to his father
@@ -2520,7 +2520,7 @@ part of his life. Don’t let India do the same by _you_.”
 would have preferred China or Australia, but Waring has his say and his
 way.”
 
-“And I had _my_ say and my way too, Uncle Ben. India is my native
+“And I had _my_ say and my way too, Uncle Dan. India is my native
 land; I remember it distinctly--the servants with their dark faces and
 big white turbans, my little chestnut pony, which was called the ‘Lal
 Tatoo,’ and I want to see my father. You know we have not met for
@@ -3045,7 +3045,7 @@ to get down and walk on to the next station.”
 “Really? Has there been an accident? I could not make out what the
 people were saying.”
 
-“It is not of much consequence--two goods trains disputing the right
+“It is not of much consequence--two goods trains disputing the right of
 way; but we shall have to walk to Okara to catch the Cawnpore mail.”
 
 “Is it far?”
@@ -3469,7 +3469,7 @@ The company rose with one consent, thrust back their chairs, snatched
 up their parcels, and hurried precipitately out of the room, leaving
 Honor and her escort _vis-à-vis_ and all alone.
 
-“If those are specimens of English-women in India,” she exclaimed,
+“If those are specimens of Englishwomen in India,” she exclaimed,
 “give _me_ the society of the natives; that dear old creature in the
 hut was far more of a lady.”
 
@@ -3522,7 +3522,7 @@ Letter from Mrs. Brande, Allahabad, to Pelham Brande, Esq., Shirani:--
  “DEAR P.
 
  “She arrived yesterday, so you may expect us on Saturday. Send Nubboo
- down to Nath Tal Dak Bungalow on Thursday, to cook our dinner, and
+ down to Nath Tal Dâk Bungalow on Thursday, to cook our dinner, and
  don’t allow him _more_ than _six_ coolies and _one_ pony. Honor seems
  to feel the heat a great deal, though she is thin, and not fat like
  me. At first sight, I must tell you, I was _terribly_ disappointed.
@@ -3690,7 +3690,7 @@ niece come up?” she asked peremptorily.
 “Yes, arrived two days ago--the early bird, you see,” he added, with a
 malicious twinkle of his little eyes.
 
-“I don’t see; and every one know that the worm was a _fool_. What is
+“I don’t see; and every one knows that the worm was a _fool_. What is
 she like?”
 
 “Like a fairy, and dances to match,” replied Mr. Joy, with enthusiasm.
@@ -3798,7 +3798,7 @@ unction and for Honor’s benefit--
 “Victoria--that’s New South Wales--Paris, Brindisi, Bombay, Poonah,
 Arkomon, Calcutta, Galle, Lucknow. Bless us and save us, he has been
 staying at Government House, Calcutta, and been half over the world!
-See what it is to have money!” and she made a sign to her jampanies to
+See what it is to have money!” and she made a sign to her jampannis to
 continue her journey. Presently they passed two more coolies, lightly
 loaded with a rather meagre kit; these she did not think it necessary
 to question.
@@ -4021,7 +4021,7 @@ and then said absently, “Did you notice those monkeys on the way up?”
 
 She had a peculiar habit of suddenly jumping from one topic to another,
 figuratively, at the opposite pole. She declared that her ideas
-travelled at times faster than her speech, possibly she had her own
+travelled at times faster than her speech. Possibly she had her own
 consecutive, if rapid, train of thought, and may thus have connected
 Miss Paske with apes.
 
@@ -4443,8 +4443,8 @@ dairymaid type.
 
 And how exultant the old woman had looked! Literally puffed out
 with pride, as she was carried past, with the millionaire in close
-attendance. Not _that_ detail was of the slightest consequence. Lalla
-knew him intimately, and she would get her to write him a nice,
+attendance. Not that _that_ detail was of the slightest consequence.
+Lalla knew him intimately, and she would get her to write him a nice,
 friendly little note, and ask him to drop in to tea.
 
 Meanwhile Honor had been presented to her uncle, who, far from being
